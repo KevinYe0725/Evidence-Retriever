@@ -1,1 +1,4 @@
 /evidence-retriever/.venv/
+
+# Local credentials
+/evidence-retriever/.env
